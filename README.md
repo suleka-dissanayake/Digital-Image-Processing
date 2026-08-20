@@ -1,1 +1,1 @@
-## Digital Image Processing
+## Digital Image Processing - IT 3143
