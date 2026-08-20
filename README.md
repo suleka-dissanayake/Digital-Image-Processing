@@ -1,1 +1,1 @@
-## DIP
+## Digital Image Processing
