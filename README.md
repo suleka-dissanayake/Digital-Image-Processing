@@ -14,7 +14,7 @@ It focuses on **image processing techniques** implemented through day-by-day lab
 # 🎓 Academic Context
 
 * **Programme:** BSc. in Information Technology
-* **Semester:**
+* **Semester:** 3rd Year 1st Semester
 * **Course Module:** Digital Image Processing
 * **University:** University of Vavuniya, Sri Lanka
 * **Created by:** Suleka Dissanayake
