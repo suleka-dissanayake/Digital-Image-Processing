@@ -42,31 +42,4 @@ It focuses on **image processing techniques** implemented through day-by-day lab
 
 ---
 
-# 📂 Repository Contents
-
-| Item | Description |
-| ---- | ----------- |
-| `DAY 01` | Lab 01 |
-| `DAY 02.ipynb`, `DAY 03.ipynb` | Lab 02 and Lab 03 notebooks |
-| `DAY 04` – `DAY 14` | Lab sessions 04 to 14 |
-
----
-
-# 🚀 Getting Started
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/suleka-dissanayake/Digital-Image-Processing.git
-   ```
-2. Install the dependencies
-   ```bash
-   pip install numpy opencv-python matplotlib jupyter
-   ```
-3. Launch Jupyter and open a notebook
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 > 📌 *This repository is maintained for academic and learning purposes.*
