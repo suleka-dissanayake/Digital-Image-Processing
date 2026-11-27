@@ -37,7 +37,7 @@ It focuses on **image processing techniques** implemented through day-by-day lab
 
 * **Python**
 * **Jupyter Notebook**
-* **NumPy / OpenCV / Matplotlib**
+* **NumPy / OpenCV / Matplotlib / Scikit-Image**
 * **Git & GitHub**
 
 ---
