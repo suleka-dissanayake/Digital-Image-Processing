@@ -23,7 +23,7 @@ It focuses on **image processing techniques** implemented through day-by-day lab
 
 ## 🧩 Topics Covered
 
-- ✅ Introduction to digital images
+- ✅ Introduction to Digital Image Processing
 - ✅ Image reading, displaying, and basic operations
 - ✅ Intensity transformations
 - ✅ Histogram processing
