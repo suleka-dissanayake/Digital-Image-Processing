@@ -29,7 +29,8 @@ It focuses on **image processing techniques** implemented through day-by-day lab
 - ✅ Histogram processing
 - ✅ Spatial filtering
 - ✅ Image enhancement and restoration
-- ✅ Practical lab exercises (Day 01 – Day 14)
+- ✅ Practical lab exercises
+- ✅ Revision exercises
 
 ---
 
